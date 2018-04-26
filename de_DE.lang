@@ -842,17 +842,17 @@ button.down=Scroll nach unten
 ###################
 #
 # GENERAL
-card.study.name=Study %1$s
-card.study.text=A large part of research is simply hitting the books and putting in the work. You study %1$s and gain 10 progress.
+card.study.name=%1$s Studieren
+card.study.text=Ein großer Teil der Forschung ist leider, antike Bücher zu lesen und sich das Gefundene eimnzupauken. Du studierst %1$s und erhältst 10 Fortschritt.
 #
-card.reject.name=Reject %1$s findings
-card.reject.text=You come to the realization that %1$s is not vital to your current research. You will not gain any more progress in %1$s or draw any cards related to it. You will not not lose your current progress.
+card.reject.name=%1$s-Funde vernachlässigen
+card.reject.text=Du entschließt, dass %1$s nicht kritisch für deine Forschungen ist. Du wirst keinen Fortschritt mehr in %1$s machen und auch keine %1$s-Karten mehr ziehen. Dein jetziger Fortschritt geht aber nicht verloren.
 #
 card.experimentation.name=Experimentation
-card.experimentation.text=You perform some random experiments to see if something could be discovered. You gain 10 to 25 progress in a completely random category.
+card.experimentation.text=Du führt ein paar seltsame Experimente durch um zu sehen ob du etwas lernst. Du erhältst 10 bis 25 Fortschritt in einer komplett zufälligen Kategorie.
 #
-card.analyze.name=Analyze %1$s
-card.analyze.text=By thoroughly analyzing observations you have made about %1$s you might be able to put together a theory based on the collected data. Lose 1 %1$s observation to gain 25 to 50 %1$s progress and 5 %2$s progress.
+card.analyze.name=%1$s Analysieren
+card.analyze.text=Indem du gründlich deine Beobachtungen in %1$s analysierst, kannst du villeicht eine Theorie aus dem Gelernten aufstellen. Du verlierst 1 %1$s-Beobachtung und erhälst 25 bis 50 %1$s-Fortschritt und 5 %2$s-Fortschritt.
 #
 card.rethink.name=Rethink
 card.rethink.text=You take a step back and reassess your findings. You get rid of invalid conclusions and proceed with fresh understanding. Lose 10 to 20 progress divided evenly between all current categories, but you regain 1 inspiration. You may also gain a bonus draw.
