@@ -843,10 +843,10 @@ button.down=Scroll nach unten
 #
 # GENERAL
 card.study.name=%1$s Studieren
-card.study.text=Ein großer Teil der Forschung ist leider, antike Bücher zu lesen und sich das Gefundene eimnzupauken. Du studierst %1$s und erhältst 10 Fortschritt.
+card.study.text=Ein großer Teil der Forschung ist leider, antike Bücher zu lesen und sich das Gefundene einzupauken. Du studierst %1$s und erhältst 10 Fortschritt.
 #
 card.reject.name=%1$s-Funde vernachlässigen
-card.reject.text=Du entschließt, dass %1$s nicht kritisch für deine Forschungen ist. Du wirst keinen Fortschritt mehr in %1$s machen und auch keine %1$s-Karten mehr ziehen. Dein jetziger Fortschritt geht aber nicht verloren.
+card.reject.text=Du entschließt, dass %1$s nicht kritisch für deine Forschungen ist. Du wirst keinen %1$s-Fortschritt mehr machen und auch keine %1$s-Karten mehr ziehen. Dein jetziger Fortschritt geht aber nicht verloren.
 #
 card.experimentation.name=Experimentation
 card.experimentation.text=Du führt ein paar seltsame Experimente durch um zu sehen ob du etwas lernst. Du erhältst 10 bis 25 Fortschritt in einer komplett zufälligen Kategorie.
